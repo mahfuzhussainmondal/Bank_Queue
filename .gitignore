@@ -1,0 +1,12 @@
+# Binaries and objects
+bin/
+*.exe
+*.o
+
+# IDE specific files
+.vscode/
+.vs/
+
+# OS specific files
+.DS_Store
+Thumbs.db
